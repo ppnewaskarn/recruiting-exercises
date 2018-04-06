@@ -1,0 +1,6 @@
+The code is based on node.js
+
+To run tests
+1. If not already install install node.js on your machine. https://nodejs.org/en/download/
+2. cd to the src dir
+3. node InventoryAllocatorTest.js
